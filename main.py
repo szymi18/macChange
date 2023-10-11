@@ -1,4 +1,4 @@
-print("Change yout mac address from : to -")
+print("Change your mac address from : to - and - to :")
 
 def change_mac(mac_address):
     if third_character == ":":
